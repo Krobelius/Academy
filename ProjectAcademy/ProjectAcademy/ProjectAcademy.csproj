@@ -113,6 +113,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\img\logo.jpg" />
+    <Content Include="Content\Scrpits\ScriptsForAuth.js" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\AuthStyles.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
