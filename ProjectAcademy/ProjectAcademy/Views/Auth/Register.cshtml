@@ -1,0 +1,50 @@
+﻿@model ProjectAcademy.Models.RegisterModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/Content/AuthStyles.css" />
+    <script src="https://unpkg.com/imask"></script>
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+</head>
+<body>
+    <header class="page-header">
+    </header>
+    @using (Html.BeginForm())
+    {
+        <div class="container">
+            <div class="row">
+                <div class="col-md-offset-3 col-md-6">
+                    @Html.AntiForgeryToken()
+                    <div class="form-horizontal">
+                        @Html.ValidationSummary(true)
+                        <span class="heading">РЕГИСТРАЦИЯ</span>
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control maskedtel", @name = "auth_phone", @id = "phone", @placeholder = "Номер телефона", @type = "tel", @autocomplete = "true" } })
+                            @Html.ValidationMessageFor(model => model.Phone)
+                            <script>
+                                var elements = document.getElementsByClassName('maskedtel');
+                                for (var i = 0; i < elements.length; i++) {
+                                    new IMask(elements[i], {
+                                        mask: '+{7}(000)000-00-00',
+                                    });
+                                }
+                            </script>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-default btn-lg btn-block">Зарегистрироваться</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</body>
+</html>

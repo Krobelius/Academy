@@ -1,0 +1,186 @@
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ProjectAcademy.dll.config
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ProjectAcademy.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ProjectAcademy.pdb
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\csc.exe
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\csc.exe.config
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\csc.rsp
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\csi.exe
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\csi.exe.config
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\csi.rsp
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.AppContext.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Console.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.IO.Compression.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Net.Http.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Net.Sockets.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.ValueTuple.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\vbc.exe
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\vbc.exe.config
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\vbc.rsp
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\VBCSCompiler.exe
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\Newtonsoft.Json.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Net.Http.Formatting.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Helpers.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Http.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Http.WebHost.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Mvc.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Razor.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.Deployment.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.Razor.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Razor.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.Deployment.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.Razor.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Helpers.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Mvc.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\Newtonsoft.Json.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Net.Http.Formatting.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Http.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\System.Web.Http.WebHost.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Razor.resources.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Http.resources.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\obj\Debug\ProjectAcademy.csprojAssemblyReference.cache
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\obj\Debug\ProjectAcademy.csproj.CoreCompileInputs.cache
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\obj\Debug\ProjectAcademy.csproj.CopyComplete
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\obj\Debug\ProjectAcademy.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\obj\Debug\ProjectAcademy.pdb
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\EntityFramework.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\EntityFramework.SqlServer.dll
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\EntityFramework.xml
+C:\Users\oshar\source\repos\ProjectAcademy\ProjectAcademy\bin\EntityFramework.SqlServer.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ProjectAcademy.dll.config
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ProjectAcademy.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ProjectAcademy.pdb
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\csc.exe
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\csc.exe.config
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\csc.rsp
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\csi.exe
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\csi.exe.config
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\csi.rsp
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.AppContext.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Collections.Immutable.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Console.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Globalization.Calendars.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.IO.Compression.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.IO.FileSystem.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Net.Http.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Net.Sockets.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Reflection.Metadata.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.ValueTuple.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Xml.XPath.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\vbc.exe
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\vbc.exe.config
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\vbc.rsp
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\VBCSCompiler.exe
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\roslyn\VBCSCompiler.exe.config
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\EntityFramework.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\EntityFramework.SqlServer.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\Microsoft.Web.Infrastructure.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\Newtonsoft.Json.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Net.Http.Formatting.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Helpers.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Http.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Http.WebHost.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Mvc.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Razor.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.Deployment.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.Razor.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\EntityFramework.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\EntityFramework.SqlServer.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Razor.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.Deployment.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Webpages.Razor.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Helpers.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Mvc.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\Newtonsoft.Json.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Net.Http.Formatting.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Http.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\System.Web.Http.WebHost.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Razor.resources.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Webpages.resources.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Helpers.resources.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Mvc.resources.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Http.resources.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\obj\Debug\ProjectAcademy.csprojAssemblyReference.cache
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\obj\Debug\ProjectAcademy.csproj.CoreCompileInputs.cache
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\obj\Debug\ProjectAcademy.csproj.CopyComplete
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\obj\Debug\ProjectAcademy.dll
+D:\Проект Академия\ProjectAcademy\ProjectAcademy\obj\Debug\ProjectAcademy.pdb
